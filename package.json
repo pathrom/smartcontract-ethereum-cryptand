@@ -2,8 +2,6 @@
   "name": "bot-entrypoint",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:GabrielMartinezRodriguez/bot-entrypoint.git",
-  "author": "GabrielMartinezRodriguez <gabrielmartinezrdrgz@gmail.com>",
   "license": "MIT",
   "scripts": {
     "test": "hardhat test",
